@@ -7,8 +7,13 @@ An HR data analysis project focuses on examining workforce data to provide insig
 The project involves aggregating data from multiple HR systems. The analysis can be visualized in a dashboard using  Power BI tool, with interactive features like slicers to segment data by department, gender, or tenure. Insights may reveal patterns, such as high turnover in specific departments, which can lead HR to implement targeted retention strategies.
 
 ### DATA VISUALIZATION
-![HR-DATA](https://github.com/user-attachments/assets/5b821790-f46c-4f3e-ba58-c7979d90121a)
+
+![hr-data](https://github.com/user-attachments/assets/b42bba7d-84a9-4824-9050-6c9531d06828)
 
 
 
-![Hr](https://github.com/user-attachments/assets/18702c26-3fdd-4073-9ff2-8ed3d1e2d257)
+
+
+
+
+
