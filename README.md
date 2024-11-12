@@ -12,6 +12,7 @@ The project involves aggregating data from multiple HR systems. The analysis can
 
 
 
+![hrdata](https://github.com/user-attachments/assets/1432de14-5bc8-4a3a-9b82-ce614705d0a9)
 
 
 
