@@ -8,8 +8,8 @@ The project involves aggregating data from multiple HR systems. The analysis can
 
 ### DATA VISUALIZATION
 
-![hr-data](https://github.com/user-attachments/assets/b42bba7d-84a9-4824-9050-6c9531d06828)
 
+![hr-data](https://github.com/user-attachments/assets/17e3700a-8511-4f80-97af-4d8fda05b12f)
 
 
 ![hrdata](https://github.com/user-attachments/assets/1432de14-5bc8-4a3a-9b82-ce614705d0a9)
