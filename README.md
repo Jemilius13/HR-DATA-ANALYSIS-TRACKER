@@ -8,12 +8,15 @@ The project involves aggregating data from multiple HR systems. The analysis can
 
 ### DATA VISUALIZATION
 
+![hr overview](https://github.com/user-attachments/assets/a9f7fbae-b7fa-448e-8257-5388da7f9f01)
 
-![hr-data](https://github.com/user-attachments/assets/17e3700a-8511-4f80-97af-4d8fda05b12f)
 
 
-![hrdata](https://github.com/user-attachments/assets/1432de14-5bc8-4a3a-9b82-ce614705d0a9)
+![hrdata](https://github.com/user-attachments/assets/b8e479d9-f900-4835-ae83-3c1637789e62)
 
+
+
+![hr attrition](https://github.com/user-attachments/assets/9e987eee-b077-4519-a701-e7e870deb5a5)
 
 
 
